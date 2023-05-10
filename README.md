@@ -33,7 +33,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build
 
-Instead, it will copy all the configuration files and the transitive dependencies 
+Instead, it will copy all the configuration files and the trans
 
 
 
