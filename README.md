@@ -31,7 +31,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at  
+If you aren't satisfied with the build tool and configuration choices, you can `eject`   
 
 
 
